@@ -1,0 +1,7 @@
+id=fuck_mihoyo_module
+name=米哈游，启不动！
+version=v1
+versionCode=1
+author=酷安@这是广告
+description=设备启动时自动卸载所有米哈游应用。模块运行日志在安装目录下的 run.log 文件
+updateJson=https://raw.githubusercontent.com/liuran001/mihoyo_module/main/fuck/update.json
